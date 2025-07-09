@@ -1,0 +1,45 @@
+.\smarthome\utils.o: HardWare\utils.c
+.\smarthome\utils.o: HardWare\utils.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+.\smarthome\utils.o: ../Core/Inc/stm32f4xx_hal_conf.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f405xx.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Include/core_cm4.h
+.\smarthome\utils.o: E:\Program Files\Keil_STM32\ARM\ARMCC\Bin\..\include\stdint.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+.\smarthome\utils.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+.\smarthome\utils.o: E:\Program Files\Keil_STM32\ARM\ARMCC\Bin\..\include\stddef.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_hcd.h
+.\smarthome\utils.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
+.\smarthome\utils.o: ../Core/Inc/main.h
+.\smarthome\utils.o: HardWare\AT24C02.h
+.\smarthome\utils.o: ../Core/Inc/i2c.h
+.\smarthome\utils.o: HardWare\utils.h
+.\smarthome\utils.o: E:\Program Files\Keil_STM32\ARM\ARMCC\Bin\..\include\string.h
